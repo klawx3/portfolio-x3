@@ -1,0 +1,16 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.3em;
+    background-color: #274156;
+    color : #FBFCFF;
+}
+
+.portfolio__navbar{
+    background-color: #1C6E8C;
+    color : #D0CCD0;
+}
+
+
+.portfolio__resume {
+    padding: 5px;
+}
